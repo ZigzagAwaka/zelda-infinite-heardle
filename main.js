@@ -1,5 +1,18 @@
 var app = (function () {
   var artist = "Zelda";
+
+  const closeGames = [
+    ["Etrian Odyssey 1", "Etrian Odyssey 2"],
+  ];
+
+  function isCloseGame(gameA, gameB) {
+    return closeGames.some(
+      (pair) =>
+        (pair[0] === gameA && pair[1] === gameB) ||
+        (pair[1] === gameA && pair[0] === gameB)
+    );
+  }
+
   var currentIndex = 0;
 
   // To store userStats and tags in a different attribute in local storage if several heardles are hosted in the same domain
@@ -994,8 +1007,9 @@ var app = (function () {
             (o = x()),
             Q(a.$$.fragment),
             (l = x()),
-            (u = w("h1")),
-            (u.textContent = artist + " Infinite Heardle"),
+            (u = w("img")),
+              M(u, "src", "./Logo.png"),
+              M(u, "alt", artist + " Infinite Heardle"),
             (c = x()),
             (d = w("div")),
             Q(h.$$.fragment),
@@ -1006,11 +1020,8 @@ var app = (function () {
             (bFilter = x()),
             Q(mFilter.$$.fragment),
             M(s, "class", "flex flex-1"),
-            M(
-              u,
-              "class",
-              "font-serif text-3xl font-bold flex-grow text-center flex-1"
-            ),
+            M(u, "class", "flex-1"),
+            M(u, "style", "height: 122px; width: auto; object-fit: contain;"),
             M(d, "class", "flex flex-1 justify-end"),
             M(
               r,
@@ -1246,9 +1257,9 @@ var app = (function () {
             "title",
             (d =
               "Listen to " +
-              e[1].artist +
-              " - " +
               e[1].title +
+              " - " +
+              e[1].artist +
               " on SoundCloud")
           ),
           M(n, "class", "no-underline"),
@@ -1285,9 +1296,9 @@ var app = (function () {
           d !==
           (d =
             "Listen to " +
-            e[1].artist +
-            " - " +
             e[1].title +
+            " - " +
+            e[1].artist +
             " on SoundCloud") &&
           M(n, "title", d);
       },
@@ -1425,21 +1436,37 @@ var app = (function () {
   }
 
   function Ce(e) {
-    let t,
-      n,
-      r = e[0][e[7]].answer + "";
+    let t, n, r, q,
+      s = e[0][e[7]].answer + "";
+    const guessedMusic = musicNameList.find((m) => m["name"] == e[0][e[7]].answer);
+    const correctMusic = musicNameList.find((m) => m.id == e[2].correctAnswer);
+    const guessedGame = guessedMusic ? getOneGameOrArtistFromMusic(guessedMusic) : "";
+    const correctGame = correctMusic ? getOneGameOrArtistFromMusic(correctMusic) : "";
+    const isCorrectGame = guessedGame === correctGame;
+    const isClose = !isCorrectGame && isCloseGame(guessedGame, correctGame);
     return {
       c() {
-        (t = w("div")), (n = _(r)), M(t, "class", "text-white text-sm");
+        (t = w("div")),
+          (n = _(s)),
+          p(t, n),
+          M(t, "class", "text-white text-sm"),
+          (r = w("span")),
+          (q = _(isCorrectGame ? "Correct game" : isClose ? "Close game" : "Wrong game")),
+          p(r, q),
+          r.style.cssText = isCorrectGame
+            ? "font-size:0.85rem; color:#4ade80; font-weight:bold; white-space:nowrap;"
+            : isClose
+            ? "font-size:0.85rem; color:#fb923c; font-weight:bold; white-space:nowrap;"
+            : "font-size:0.85rem; color:#eb2323; font-weight:bold; white-space:nowrap;";
       },
-      m(e, r) {
-        g(e, t, r), p(t, n);
+      m(e, s) {
+        g(e, t, s), g(e, r, s);
       },
       p(e, t) {
-        1 & t && r !== (r = e[0][e[7]].answer + "") && $(n, r);
+        1 & t && s !== (s = e[0][e[7]].answer + "") && $(n, s);
       },
       d(e) {
-        e && y(t);
+        e && y(t), e && y(r);
       },
     };
   }
@@ -1480,7 +1507,8 @@ var app = (function () {
             "class",
             "p-2 mb-2 border border-custom-mg flex items-center last:mb-0"
           ),
-          Y(t, "border-custom-line", e[7] == e[0].length);
+          t.style.borderColor = e[7] == e[0].length ? "#0D9263" : "";
+          t.style.borderWidth = e[7] == e[0].length ? "2px" : "";
       },
       m(e, r) {
         g(e, t, r), i.m(t, null), p(t, n);
@@ -1489,7 +1517,8 @@ var app = (function () {
         s === (s = r(e)) && i
           ? i.p(e, o)
           : (i.d(1), (i = s(e)), i && (i.c(), i.m(t, n))),
-          1 & o && Y(t, "border-custom-line", e[7] == e[0].length);
+          1 & o && (t.style.borderColor = e[7] == e[0].length ? "#0D9263" : "");
+          1 & o && (t.style.borderWidth = e[7] == e[0].length ? "2px" : "");
       },
       d(e) {
         e && y(t), i.d();
@@ -1531,20 +1560,20 @@ var app = (function () {
       a = e[1].title + "";
     return {
       c() {
-        (t = w("p")),
-          (n = _(o)),
-          (r = x()),
-          (s = w("p")),
-          (i = _(a)),
-          M(t, "class", ""),
-          M(s, "class", "text-sm ");
+      (t = w("p")),
+        (n = _("")),
+        (r = x()),
+        (s = w("p")),
+        (i = _(a + " - " + o)),
+        M(t, "class", "hidden"),
+        M(s, "class", "text-sm ");
       },
       m(e, o) {
         g(e, t, o), p(t, n), g(e, r, o), g(e, s, o), p(s, i);
       },
       p(e, t) {
-        2 & t && o !== (o = e[1].artist + "") && $(n, o),
-          2 & t && a !== (a = e[1].title + "") && $(i, a);
+        2 & t && o !== (o = e[1].artist + ""),
+          2 & t && a !== (a = e[1].title + "") && $(i, a + " - " + o);
       },
       d(e) {
         e && y(t), e && y(r), e && y(s);
@@ -4900,7 +4929,7 @@ var app = (function () {
             (f = w("div")),
             (m = w("div")),
             (k = w("button")),
-            (k.textContent = "Next"), // Bind on click ?
+            (k.textContent = "Next song"), // Bind on click ?
             (b = x()),
             Q(S.$$.fragment),
             (D = x()),
@@ -5186,7 +5215,7 @@ var app = (function () {
     let n;
     return {
       c() {
-        n = _("You didn't get this " + artist + " music.");
+        n = _("You didn't get that song. Try Again!");
       },
       m(e, t) {
         g(e, n, t);

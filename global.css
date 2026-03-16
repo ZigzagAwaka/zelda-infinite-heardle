@@ -110,7 +110,7 @@ button:not(:disabled):active {
 .slider-fill {
     position: absolute;
     height: 100%;
-    background-color: Green;
+    background-color: #0D9263;
     border-radius: 2px;
 }
 
@@ -118,7 +118,7 @@ button:not(:disabled):active {
     position: absolute;
     width: 20px;
     height: 20px;
-    background-color: LimeGreen;
+    background-color: white;
     top: 50%;
     transform: translate(-50%, -50%);
     box-shadow: 0 0 2px rgba(0, 0, 0, 0.5);

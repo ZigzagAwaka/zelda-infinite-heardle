@@ -1,6 +1,6 @@
 var musicListWithLinks = [
     {
-        url: "https://soundcloud.com/beignet1/labyrinth-iii-azure-rainforest",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-death?in=zelda-soundtracks/sets/legend-of-zelda-nes",
         answer: 0,
     },
     {
