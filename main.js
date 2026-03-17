@@ -28,6 +28,9 @@ var app = (function () {
     );
   }
 
+  const FALLBACK_SONG =
+    "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret";
+
   var currentIndex = 0;
 
   // To store userStats and tags in a different attribute in local storage if several heardles are hosted in the same domain
@@ -5218,11 +5221,11 @@ var app = (function () {
       a = e[1].attemptIntervalAlt[e[0].length - 1] / 1e3 > 1 ? "s" : "";
     return {
       c() {
-        (t = _("You got this " + artist + " music within ")),
+        (t = _("You answered that correctly within ")),
           (n = _(o)),
           (r = _("\n                second")),
           (s = _(a)),
-          (i = _("."));
+          (i = _("!"));
       },
       m(e, o) {
         g(e, t, o), g(e, n, o), g(e, r, o), g(e, s, o), g(e, i, o);

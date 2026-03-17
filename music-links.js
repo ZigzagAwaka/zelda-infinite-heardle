@@ -18,11 +18,11 @@ var musicListWithLinks = [
         answer: 3,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret?in=zelda-soundtracks/sets/legend-of-zelda-nes&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 4,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret?in=zelda-soundtracks/sets/legend-of-zelda-nes&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 5,
     },
     // The Adventure of Link
@@ -44,7 +44,7 @@ var musicListWithLinks = [
         answer: 9,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret?in=zelda-soundtracks/sets/legend-of-zelda-nes&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 10,
     },
     {
@@ -102,71 +102,71 @@ var musicListWithLinks = [
         answer: 23,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret?in=zelda-soundtracks/sets/legend-of-zelda-nes&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 24,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret?in=zelda-soundtracks/sets/legend-of-zelda-nes&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 25,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret?in=zelda-soundtracks/sets/legend-of-zelda-nes&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 26,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret?in=zelda-soundtracks/sets/legend-of-zelda-nes&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 27,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret?in=zelda-soundtracks/sets/legend-of-zelda-nes&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 28,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret?in=zelda-soundtracks/sets/legend-of-zelda-nes&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 29,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret?in=zelda-soundtracks/sets/legend-of-zelda-nes&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 30,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret?in=zelda-soundtracks/sets/legend-of-zelda-nes&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 31,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret?in=zelda-soundtracks/sets/legend-of-zelda-nes&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 32,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret?in=zelda-soundtracks/sets/legend-of-zelda-nes&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 33,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret?in=zelda-soundtracks/sets/legend-of-zelda-nes&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 34,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret?in=zelda-soundtracks/sets/legend-of-zelda-nes&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 35,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret?in=zelda-soundtracks/sets/legend-of-zelda-nes&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 36,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret?in=zelda-soundtracks/sets/legend-of-zelda-nes&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 37,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret?in=zelda-soundtracks/sets/legend-of-zelda-nes&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 38,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret?in=zelda-soundtracks/sets/legend-of-zelda-nes&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 39,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret?in=zelda-soundtracks/sets/legend-of-zelda-nes&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 40,
     },
 ];
