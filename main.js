@@ -2,7 +2,22 @@ var app = (function () {
   var artist = "Zelda";
 
   const closeGames = [
-    ["Etrian Odyssey 1", "Etrian Odyssey 2"],
+    ["The Legend of Zelda", "The Adventure of Link"],
+    ["Link's Awakening", "Oracle of Ages"],
+    ["Link's Awakening", "Oracle of Seasons"],
+    ["Oracle of Ages", "Oracle of Seasons"],
+    ["Majora's Mask", "Ocarina of Time"],
+    ["The Minish Cap", "Four Swords"],
+    ["Phantom Hourglass", "Spirit Tracks"],
+    ["A Link Between Worlds", "Tri Force Heroes"],
+    ["Breath of the Wild", "Tears of the Kingdom"],
+    ["The Wind Waker", "The Wind Waker HD"],
+    ["Hyrule Warriors: Age of Calamity", "Hyrule Warriors: Age of Imprisonment"],
+    ["Link's Awakening (Remake)", "Echoes of Wisdom"],
+    ["Hyrule Warriors", "Hyrule Warriors Legends"],
+    ["The Faces of Evil", "The Wand of Gamelon"],
+    ["Zelda's Adventure", "The Wand of Gamelon"],
+    ["The Faces of Evil", "Zelda's Adventure"],
   ];
 
   function isCloseGame(gameA, gameB) {
@@ -4328,16 +4343,35 @@ var app = (function () {
             '<ul style="list-style-type: disc;margin-left: 20px;font-size: 12px;display: grid;justify-content: center;">' +
             musicNameListFiltered
               .map(
-                (s, i) =>
-                  "<li" +
-                  (diffArtist[i] && !allDifferent
-                    ? ' style="margin-top:10px"'
-                    : "") +
-                  '><a target="_blank" href="' +
-                  mapUrl.get(s.id) +
-                  '">' +
-                  s["name"] +
-                  "</a></li>"
+                (s, i) => {
+                  const gameName = getOneGameOrArtistFromMusic(s);
+                  const songTitle = s["name"].split(" - ").slice(0, -1).join(" - ");
+                  let prefix = "";
+                  if (diffArtist[i] && !allDifferent) {
+                    prefix =
+                      '<li style="list-style-type: none; margin-left: -20px; padding: 0;">' +
+                      '<hr style="border: none; border-top: 1px solid currentColor; opacity: 0.3; margin: 8px 0 4px 0;">' +
+                      '<div style="text-align: right; font-size: 10px; opacity: 0.6; font-style: italic; margin-bottom: 4px;">' +
+                      gameName +
+                      "</div>" +
+                      "</li>";
+                  } else if (i === 0 && !allDifferent) {
+                    prefix =
+                      '<li style="list-style-type: none; margin-left: -20px; padding: 0;">' +
+                      '<div style="text-align: right; font-size: 10px; opacity: 0.6; font-style: italic; margin-bottom: 4px;">' +
+                      gameName +
+                      "</div>" +
+                      "</li>";
+                  }
+                  return (
+                    prefix +
+                    '<li><a target="_blank" href="' +
+                    mapUrl.get(s.id) +
+                    '">' +
+                    songTitle +
+                    "</a></li>"
+                  );
+                }
               )
               .join("") +
             "</ul>"),
