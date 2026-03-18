@@ -3,9 +3,7 @@ var app = (function () {
 
   const closeGames = [
     ["The Legend of Zelda", "The Adventure of Link"],
-    ["Link's Awakening", "Oracle of Ages"],
-    ["Link's Awakening", "Oracle of Seasons"],
-    ["Oracle of Ages", "Oracle of Seasons"],
+    ["Link's Awakening", "Oracle of Ages/Seasons"],
     ["Majora's Mask", "Ocarina of Time"],
     ["The Minish Cap", "Four Swords"],
     ["Phantom Hourglass", "Spirit Tracks"],
