@@ -1934,781 +1934,787 @@ var musicListWithLinks = [
         answer: 477,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/vgmdr/map-the-legend-of-zelda-four-swords-adventures",
         answer: 478,
     },
+    // The Minish Cap
+    // https://soundcloud.com/cow-ravine/sets/legend-of-zelda-minish-cap-ost
+    // https://soundcloud.com/user-411498138/sets/the-legend-of-zelda-the-minish
     {
-        url: "",
+        url: "https://soundcloud.com/cow-ravine/introduction?in=cow-ravine/sets/legend-of-zelda-minish-cap-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 479,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/cow-ravine/picori-festival?in=cow-ravine/sets/legend-of-zelda-minish-cap-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 480,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/cow-ravine/princess-zelda?in=cow-ravine/sets/legend-of-zelda-minish-cap-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 481,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/cow-ravine/vaati-attacks?in=cow-ravine/sets/legend-of-zelda-minish-cap-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 482,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/cow-ravine/vaatis-theme?in=cow-ravine/sets/legend-of-zelda-minish-cap-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 483,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/cow-ravine/minish-woods?in=cow-ravine/sets/legend-of-zelda-minish-cap-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 484,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/cow-ravine/cucco-chase?in=cow-ravine/sets/legend-of-zelda-minish-cap-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 485,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/cow-ravine/the-minish-cap?in=cow-ravine/sets/legend-of-zelda-minish-cap-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 486,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/cow-ravine/boss?in=cow-ravine/sets/legend-of-zelda-minish-cap-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 487,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/cow-ravine/elemental-sanctuary?in=cow-ravine/sets/legend-of-zelda-minish-cap-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 488,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/cow-ravine/cave-of-flames?in=cow-ravine/sets/legend-of-zelda-minish-cap-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 489,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/cow-ravine/mt-crenel?in=cow-ravine/sets/legend-of-zelda-minish-cap-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 490,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/cow-ravine/flashback?in=cow-ravine/sets/legend-of-zelda-minish-cap-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 491,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/cow-ravine/into-the-skies?in=cow-ravine/sets/legend-of-zelda-minish-cap-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 492,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/cow-ravine/wind-ruins?in=cow-ravine/sets/legend-of-zelda-minish-cap-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 493,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/cow-ravine/royal-crypt?in=cow-ravine/sets/legend-of-zelda-minish-cap-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 494,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/cow-ravine/palace-of-winds?in=cow-ravine/sets/legend-of-zelda-minish-cap-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 495,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/cow-ravine/temple-of-droplets?in=cow-ravine/sets/legend-of-zelda-minish-cap-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 496,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/cow-ravine/hurry?in=cow-ravine/sets/legend-of-zelda-minish-cap-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 497,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/cow-ravine/dark-hyrule-castle?in=cow-ravine/sets/legend-of-zelda-minish-cap-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 498,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/cow-ravine/vaati-battle?in=cow-ravine/sets/legend-of-zelda-minish-cap-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 499,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/cow-ravine/vaatis-wrath?in=cow-ravine/sets/legend-of-zelda-minish-cap-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 500,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/mushroomguy/the-legend-of-zelda-the-minish?in=user-411498138/sets/the-legend-of-zelda-the-minish&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 501,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/vgmdoc/hyrule-castle-the-quest-begins-the-legend-of-zelda-the-minish-cap-ost-enhanced?in=user-411498138/sets/the-legend-of-zelda-the-minish&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 502,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/lanbobyonson/hyrule-town-the-legend-of-zelda-the-minish-cap-ost?in=user-411498138/sets/the-legend-of-zelda-the-minish&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 503,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/paradox_phoenix/the-legend-of-zelda-the-minish?in=user-411498138/sets/the-legend-of-zelda-the-minish&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 504,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user-86382627/18-minish-village-the-legend-of-zelda-the-minish-cap-ost?in=user-411498138/sets/the-legend-of-zelda-the-minish&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 505,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/vgmdoc/cave-the-legend-of-zelda-the-minish-cap-ost-enhanced?in=user-411498138/sets/the-legend-of-zelda-the-minish&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 506,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/vgmdoc/danger-the-legend-of-zelda-the-minish-cap-ost-enhanced?in=user-411498138/sets/the-legend-of-zelda-the-minish&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 507,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/vgmdr/blade-brothers-dojo-skill-learned-the-legend-of-zelda-the-minish-cap?in=user-411498138/sets/the-legend-of-zelda-the-minish&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 508,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/vgmdoc/cloud-tops-the-legend-of-zelda-the-minish-cap-ost-enhanced?in=user-411498138/sets/the-legend-of-zelda-the-minish&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 509,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/vgmdoc/lost-woods-unused-the-legend-of-zelda-the-minish-cap-ost-enhanced?in=user-411498138/sets/the-legend-of-zelda-the-minish&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 510,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user-937373904/file-select-tloz-the-minish?si=76eef9272ab24ed7adb877faea1de210&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 511,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/link-throughtime/inside-a-house-minish-cap?si=34420d5fa67e4574afcd6f9920606eba&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 512,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/vgmdr/royal-valley-original-the-legend-of-zelda-the-minish-cap?si=ad72bc838bf84e0faa44fc2a3764f1ef&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 513,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 514,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 515,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 516,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 517,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/vgmdr/castor-wilds-wind-ruins?si=436f6639e0b14135bad14ae7380af340&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 518,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 519,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 520,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 521,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 522,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 523,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 524,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 525,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 526,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 527,
     },
+    // Twilight Princess
+    // https://soundcloud.com/formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/title-theme-the-legend-of?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 528,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/orchestra-piece-1-the-legend?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 529,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/orchestra-piece-2-the-legend?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 530,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/file-select-the-legend-of?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 531,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/opening-the-legend-of-zelda?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 532,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/meet-ilia-the-legend-of-zelda?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 533,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/ordon-village-the-legend-of?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 534,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/ordon-ranch-the-legend-of?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 535,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/herd-game-the-legend-of-zelda?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 536,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/inside-a-house-the-legend-of?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 537,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/shop-the-legend-of-zelda?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 538,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/ways-of-the-sword-the-legend?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 539,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/battle-first-half-the-legend?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 540,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/battle-second-half-the-legend?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 541,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/cave-the-legend-of-zelda?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 542,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/departure-the-legend-of-zelda?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 543,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/ilias-theme-the-legend-of?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 544,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/enter-the-darkness-the-legend?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 545,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/links-transformation-the?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 546,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/midnas-theme-the-legend-of?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 547,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/twilight-the-legend-of-zelda?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 548,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/twilit-battle-the-legend-of?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 549,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/meet-princess-zelda-again-the?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 550,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/succumbed-to-twilight-the?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 551,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/beast-in-the-village-the?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 552,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/shadow-beast-the-legend-of?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 553,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/spirits-lament-the-legend-of?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 554,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/hero-chosen-by-the-gods-the?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 555,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/faron-woods-the-legend-of?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 556,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/hidden-skill-training-the?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 557,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/forest-temple-the-legend-of?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 558,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/ooccoos-theme-the-legend-of?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 559,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/ook-the-legend-of-zelda?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 560,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/diababa-the-legend-of-zelda?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 561,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/diababa-battle-second-half-the?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 562,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/diababa-clear-fanfare-the?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 563,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/boss-defeated-the-legend-of?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 564,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/next-light-spirit-the-legend?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 565,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/our-children-taken-the-legend?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 566,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/hyrule-field-the-legend-of?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 567,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/hyrule-field-night-theme-the?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 568,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/postmans-theme-the-legend-of?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 569,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/scared-the-legend-of-zelda?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 570,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/link-will-save-us-the-legend?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 571,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/storehouse-on-fire-the-legend?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 572,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/song-of-healing-the-legend-of?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 573,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/kakariko-is-saved-the-legend?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 574,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/mountain-dwelling-goron-tribe?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 575,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/kakariko-village-the-legend-of-zelda-twilight-princess?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 576,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/sanctuary-the-legend-of-zelda?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 577,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/graveyard-the-legend-of-zelda?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 578,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/death-mountain-the-legend-of?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 579,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/epona-appears-the-legend-of?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 580,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/rodeo-game-the-legend-of-zelda?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 581,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/sumo-game-the-legend-of-zelda?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 582,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/thundering-herd-the-legend-of?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 583,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/before-the-horse-battle-the?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 584,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/horse-battle-the-legend-of?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 585,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/king-bulblin-the-legend-of?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 586,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/king-bulblin-clear-fanfare-the?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 587,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/courage-the-legend-of-zelda?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 588,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/goron-mines-the-legend-of?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 589,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/love-the-legend-of-zelda?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 590,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/aeralfos-the-legend-of-zelda?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 591,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/fyrus-the-legend-of-zelda?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 592,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/save-ilia-the-legend-of-zelda?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 593,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 594,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/twilit-cargo-game-the-legend?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 595,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/queen-rutela-the-legend-of?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 596,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/requiem-of-spirit-the-legend?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 597,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/shadow-insect-the-legend-of?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 598,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/legend-of-hyrule-the-legend-of?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 599,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/lake-hylia-the-legend-of-zelda?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 600,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/fyers-cannon-the-legend-of?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 601,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/falbis-house-the-legend-of?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 602,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/hyrule-castle-town-the-legend?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 603,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/star-game-the-legend-of-zelda?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 604,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/agithas-castle-the-legend-of?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 605,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/fortune-telling-the-legend-of?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 606,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/escort-the-horse-cart-the?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 607,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/prince-ralis-is-saved-the?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 608,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/lakebed-temple-the-legend-of?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 609,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/deku-toad-the-legend-of-zelda?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 610,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/morpheel-battle-first-half-the?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 611,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/morpheel-battle-second-half?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 612,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/zants-theme-the-legend-of?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 613,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/light-and-darkness-the-legend?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 614,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/midnas-lament-the-legend-of?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 615,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/sacrifice-the-legend-of-zelda?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 616,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/prelude-of-light-the-legend-of?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 617,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/sacred-grove-the-legend-of?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 618,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/statue-game-the-legend-of?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 619,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/master-sword-the-legend-of?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 620,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/song-of-heroes-the-legend-of?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 621,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/palace-of-twilight-the-legend?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 622,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/gerudo-desert-the-legend-of?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 623,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/arbiters-grounds-the-legend-of?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 624,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/death-sword-the-legend-of?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 625,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/stallord-appears-the-legend-of?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 626,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/stallord-the-legend-of-zelda?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 627,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/the-sages-the-legend-of-zelda?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 628,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/the-demon-thief-the-legend-of?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 629,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/fishing-hit-the-legend-of?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 630,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/rollgoal-the-legend-of-zelda?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 631,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/zoras-domain-the-legend-of?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 632,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/snowpeak-the-legend-of-zelda?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 633,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/ballad-of-gales-the-legend-of?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 634,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/snowpeak-ruins-the-legend-of?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 635,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/blizzeta-battle-first-half-the?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 636,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/blizzeta-battle-second-half?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 637,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/sled-game-the-legend-of-zelda?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 638,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/chamber-of-stone-past-the?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 639,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/temple-of-time-the-legend-of?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 640,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/armogohma-battle-first-half?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 641,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/armogohma-battle-second-half?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 642,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/hidden-village-the-legend-of?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 643,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/ballad-of-twilight-the-legend?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 644,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/ilias-memory-restored-the?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 645,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/jovanis-house-the-legend-of?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 646,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/malo-mart-the-legend-of-zelda?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 647,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/cannon-repair-the-legend-of?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 648,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/city-in-the-sky-the-legend-of?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 649,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/argorok-battle-second-half?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 650,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/argorok-twilight-princess-soundfont?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 651,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/mirror-of-twilight-completed?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 652,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/phantom-zant-the-legend-of?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 653,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/zants-fate-the-legend-of-zelda?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 654,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/zant-battle-the-legend-of-zelda-twilight-princess-1?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 655,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/fused-shadows-returned-the?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 656,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/hyrule-castle-the-legend-of?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 657,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/resistance-the-legend-of-zelda-twilight-princess?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 658,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/hyrule-castle-tower-the-legend-of-zelda-twilight-princess?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 659,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/meet-ganondorf-the-legend-of-zelda-twilight-princess?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 660,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/puppet-zelda-the-legend-of-zelda-twilight-princess?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 661,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/ganondorfs-transformation-the-legend-of-zelda-twilight-princess?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 662,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/beast-ganon-battle-the-legend-of-zelda-twilight-princess?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 663,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/conversing-with-zelda-the-legend-of-zelda-twilight-princess?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 664,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/midnas-sacrifice-the-legend-of-zelda-twilight-princess?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 665,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/princess-zeldas-theme-the-legend-of-zelda-twilight-princess?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 666,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/horseback-ganondorf-fight-the-legend-of-zelda-twilight-princess?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 667,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/ganondorf-the-legend-of-zelda-twilight-princess?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 668,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/staff-credits-the-legend-of-zelda-twilight-princess?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 669,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/formidable-782415076/trailer-theme-hyrule-field-alternate-take-the-legend-of-zelda-twilight-princess-hd?in=formidable-782415076/sets/the-legend-of-zelda-twilight-princess-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 670,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/snowpeak/fishing-hole",
         answer: 671,
     },
+    // Phantom Hourglass
     {
         url: "",
         answer: 672,
@@ -4024,5 +4030,9 @@ var musicListWithLinks = [
     {
         url: "",
         answer: 1000,
+    },
+    {
+        url: "",
+        answer: 1001,
     },
 ];
