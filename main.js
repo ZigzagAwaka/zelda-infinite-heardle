@@ -1453,7 +1453,7 @@ var app = (function () {
   }
 
   function Ce(e) {
-    let t, n, r, q,
+    let t, r, q,
       s = e[0][e[7]].answer + "";
     const guessedMusic = musicNameList.find((m) => m["name"] == e[0][e[7]].answer);
     const correctMusic = musicNameList.find((m) => m.id == e[2].correctAnswer);
@@ -1461,11 +1461,38 @@ var app = (function () {
     const correctGame = correctMusic ? getOneGameOrArtistFromMusic(correctMusic) : "";
     const isCorrectGame = guessedGame === correctGame;
     const isClose = !isCorrectGame && isCloseGame(guessedGame, correctGame);
+    function getSongTitlePart(fullName) {
+      const parts = fullName.split(" - ");
+      return parts.slice(0, -1).join(" - ");
+    }
+    const correctFullName = correctMusic ? correctMusic["name"] : "";
+    const correctTitlePart = getSongTitlePart(correctFullName);
+    const correctWords = new Set(
+      correctTitlePart.toLowerCase().match(/\w+/g) || []
+    );
+
+    const guessedParts = s.split(" - ");
+    const guessedTitlePart = guessedParts.slice(0, -1).join(" - ");
+    const guessedGamePart = guessedParts[guessedParts.length - 1];
+
+    function buildColoredTitle(titleStr, refWords) {
+      const tokens = titleStr.split(/(\s+)/);
+      const frag = document.createDocumentFragment();
+      tokens.forEach((token) => {
+        const span = document.createElement("span");
+        const word = token.toLowerCase().replace(/\W/g, "");
+        if (word && refWords.has(word)) {
+          span.style.color = "#d9d075";
+        }
+        span.textContent = token;
+        frag.appendChild(span);
+      });
+      return frag;
+    }
+    
     return {
       c() {
         (t = w("div")),
-          (n = _(s)),
-          p(t, n),
           M(t, "class", "text-white text-sm"),
           (r = w("span")),
           (q = _(isCorrectGame ? "Correct game" : isClose ? "Close game" : "Wrong game")),
@@ -1477,11 +1504,15 @@ var app = (function () {
             : "font-size:0.85rem; color:#eb2323; font-weight:bold; white-space:nowrap;";
       },
       m(e, s) {
+        if (guessedTitlePart) {
+          t.appendChild(buildColoredTitle(guessedTitlePart, correctWords));
+          t.appendChild(document.createTextNode(" - " + guessedGamePart));
+        } else {
+          t.appendChild(document.createTextNode(s));
+        }
         g(e, t, s), g(e, r, s);
       },
-      p(e, t) {
-        1 & t && s !== (s = e[0][e[7]].answer + "") && $(n, s);
-      },
+      p(e, t) {},
       d(e) {
         e && y(t), e && y(r);
       },
