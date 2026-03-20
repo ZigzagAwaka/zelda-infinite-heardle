@@ -2716,1323 +2716,1294 @@ var musicListWithLinks = [
     },
     // Phantom Hourglass
     {
-        url: "",
+        url: "https://soundcloud.com/vgm-dr/the-king-of-the-oceans-the-legend-of-zelda-phantom-hourglass?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 672,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/vgmdr/staff-roll?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 673,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/doktor-vgm/mercay-island?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 674,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/doktor-vgm/ocean-kings-theme-the-legend-of-zelda-phantom-hourglass?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 675,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/vgm-dr/introduction-the-storytellers-memories?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 676,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/doktor-vgm/the-she-pirate-jolene-phantom-hourglass?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 677,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/vgmdr/dark-king-ganon-the-storytellers-memories-the-legend-of-zelda-phantom-hourglass?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 678,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 679,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/vgm-dr/attack-dirge-the-legend-of-zelda-phantom-hourglass?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 680,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/vgm-dr/astras-theme?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 681,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/doktor-vgm/house?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 682,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/vgm-dosage/the-great-sea-the-legend-of-zelda-phantom-hourglass?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 683,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/vgm-dr/dark-memories?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 684,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/vgmdr/goron-house?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 685,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/zhtotk2/phantoms-in-pursuit",
         answer: 686,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/zhtotk2/phantom-linebeck-battle",
         answer: 687,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 688,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 689,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 690,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 691,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 692,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 693,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 694,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 695,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 696,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 697,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/dan-102114985/the-legend-of-zelda-phantom-hourglass-island-life?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 698,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 699,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 700,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 701,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 702,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 703,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 704,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 705,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 706,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 707,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 708,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 709,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 710,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 711,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 712,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 713,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 714,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 715,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/zhtotk2/time-stopped",
         answer: 716,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 717,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 718,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 719,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 720,
     },
+    // Spirit Tracks
+    // https://soundcloud.com/haden-carter/sets/the-legend-of-zelda-spirit
     {
-        url: "",
+        url: "https://soundcloud.com/thethiccrat/zelda-spirit-tracks-ost-opening?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 721,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/rapzo-796722823/file-select-legend-of-zelda-the-spirit-tracks?in=haden-carter/sets/the-legend-of-zelda-spirit&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 722,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user-767636085/the-legend-of-zelda-spirit-tracks-music-aboda-village?in=user-767636085/sets/zelda-spirit-tracks&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 723,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/cow-ravine/the-final-exam?in=haden-carter/sets/the-legend-of-zelda-spirit&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 724,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user-767636085/the-legend-of-zelda-spirit-tracks-music-castle-town?in=haden-carter/sets/the-legend-of-zelda-spirit&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 725,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user-10328623/the-legend-of-zelda-spirit-tracks-sneaking-out-of-the-castle?in=haden-carter/sets/the-legend-of-zelda-spirit&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 726,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/cow-ravine/byrne?in=haden-carter/sets/the-legend-of-zelda-spirit&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 727,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/zeroretr0/tloz-spirit-tracks-realm?in=haden-carter/sets/the-legend-of-zelda-spirit&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 728,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/cole-h-942086636/the-legend-of-zelda-spirit-tracks-ost-in-the-fields?in=haden-carter/sets/the-legend-of-zelda-spirit&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 729,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/macsk/the-legend-of-zelda-spirit-tracks-tower-of-spirits-lobby?in=haden-carter/sets/the-legend-of-zelda-spirit&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 730,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/cow-ravine/tower-of-spirits-staircase?in=haden-carter/sets/the-legend-of-zelda-spirit&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 731,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/cow-ravine/048-tower-of-spirits-dungeon?in=haden-carter/sets/the-legend-of-zelda-spirit&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 732,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/cole-h-942086636/the-legend-of-zelda-spirit-tracks-ost-troubled-realm?in=haden-carter/sets/the-legend-of-zelda-spirit&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 733,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/procrastinating-reality/sanctuary-the-legend-of-zelda-spirit-tracks?in=haden-carter/sets/the-legend-of-zelda-spirit&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 734,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/cow-ravine/underwater?in=haden-carter/sets/the-legend-of-zelda-spirit&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 735,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user-51173154/fire-temple-spirit-tracks?in=haden-carter/sets/the-legend-of-zelda-spirit&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 736,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/cow-ravine/byrne-comes-to-the-rescue?in=haden-carter/sets/the-legend-of-zelda-spirit&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 737,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/cow-ravine/facing-the-demon-train?in=haden-carter/sets/the-legend-of-zelda-spirit&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 738,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/cow-ravine/fighting-cole-and-malladus?in=haden-carter/sets/the-legend-of-zelda-spirit&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 739,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/cow-ravine/the-unenterable-body?in=haden-carter/sets/the-legend-of-zelda-spirit&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 740,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/cow-ravine/before-the-final-battle?in=haden-carter/sets/the-legend-of-zelda-spirit&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 741,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/lithaeril/zelda-spirit-tracks-music-the?in=haden-carter/sets/the-legend-of-zelda-spirit&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 742,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/cow-ravine/final-battle-malladus?in=haden-carter/sets/the-legend-of-zelda-spirit&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 743,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/cow-ravine/credits?in=haden-carter/sets/the-legend-of-zelda-spirit&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 744,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/rufhles/anouki-village",
         answer: 745,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/zhtotk2/dark-trains-approaching",
         answer: 746,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/technosheep/final-battle-protecting-zelda",
         answer: 747,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/zhtotk2/forest-snow-and-ocean-temple",
         answer: 748,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/vgmdr/129-goron-village-in-lava-spouts",
         answer: 749,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/zhtotk2/the-lost-woods",
         answer: 750,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/zhtotk2/papuchia-village",
         answer: 751,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/zhtotk2/tank-and-bomb-ship-attack",
         answer: 752,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/zhtotk2/the-dark-realm",
         answer: 753,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/zhtotk2/the-force-gem-awakens",
         answer: 754,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user-789006187/stagnox-the-armored-colossus",
         answer: 755,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/dialgan/fraaz-master-of-icy-fire",
         answer: 756,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user-547113900/the-legend-of-zelda-spirit-tracks-mini-boss",
         answer: 757,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 758,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 759,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 760,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 761,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 762,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 763,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 764,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 765,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 766,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 767,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 768,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 769,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 770,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 771,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 772,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 773,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 774,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 775,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 776,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 777,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 778,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 779,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 780,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 781,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 782,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 783,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 784,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 785,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 786,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 787,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 788,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 789,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 790,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 791,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 792,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 793,
     },
+    // Skyward Sword
+    // https://soundcloud.com/extrapolation/sets/skyward-sword-ost
+    // https://soundcloud.com/sunniea-416990841/sets/skyward-sword-full-ost
     {
-        url: "",
+        url: "https://soundcloud.com/anderouspi/ballad-of-the-goddess-the?in=extrapolation/sets/skyward-sword-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 794,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/ky-elda/file-select-the-legend-of-zelda-skyward?in=extrapolation/sets/skyward-sword-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 795,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/ky-elda/opening-the-legend-of-zelda-skyward-sword?in=extrapolation/sets/skyward-sword-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 796,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/rufhles/links-nightmare?in=extrapolation/sets/skyward-sword-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 797,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/ky-elda/knights-academy-the-legend-of-zelda-skyward-sword?in=extrapolation/sets/skyward-sword-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 798,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/anderouspi/skyloft-the-legend-of-zelda-skyward-sword?in=extrapolation/sets/skyward-sword-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 799,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/sunniea-416990841/legend-of-the-goddess?in=sunniea-416990841/sets/skyward-sword-full-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 800,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/sunniea-416990841/inside-a-house?in=sunniea-416990841/sets/skyward-sword-full-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 801,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/sunniea-416990841/ballad-of-the-goddess-zelda-solo?in=sunniea-416990841/sets/skyward-sword-full-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 802,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/ky-elda/romance-the-legend-of-zelda-skyward-sword?in=extrapolation/sets/skyward-sword-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 803,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/sunniea-416990841/grooses-theme?in=sunniea-416990841/sets/skyward-sword-full-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 804,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/sunniea-416990841/grooses-insolence?in=sunniea-416990841/sets/skyward-sword-full-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 805,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/sunniea-416990841/grooses-daze?in=sunniea-416990841/sets/skyward-sword-full-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 806,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/sunniea-416990841/cave?in=sunniea-416990841/sets/skyward-sword-full-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 807,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/sunniea-416990841/before-the-journey?in=sunniea-416990841/sets/skyward-sword-full-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 808,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/sunniea-416990841/crimson-loftwing?in=sunniea-416990841/sets/skyward-sword-full-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 809,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/sunniea-416990841/leaping-from-the-clouds?in=sunniea-416990841/sets/skyward-sword-full-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 810,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/sunniea-416990841/loftwing-training?in=sunniea-416990841/sets/skyward-sword-full-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 811,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/sunniea-416990841/loftwing-race?in=sunniea-416990841/sets/skyward-sword-full-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 812,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/sunniea-416990841/zeldas-theme-romance?in=sunniea-416990841/sets/skyward-sword-full-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 813,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/extrapolation/blessing-of-the-goddess-the-legend-of-zelda-skyward-sword?in=extrapolation/sets/skyward-sword-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 814,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/sunniea-416990841/tension?in=sunniea-416990841/sets/skyward-sword-full-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 815,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/sunniea-416990841/gaeporas-lament?in=sunniea-416990841/sets/skyward-sword-full-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 816,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/sunniea-416990841/chasing-fi?in=sunniea-416990841/sets/skyward-sword-full-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 817,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user203073987/fis-theme-the-legend-of-zelda?in=extrapolation/sets/skyward-sword-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 818,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/alexander-mejia-28/gate-of-time-the-legend-of-zelda-skyward-sword?in=extrapolation/sets/skyward-sword-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 819,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/vgm-research/bazaar-the-legend-of-zelda-skyward-sword?in=extrapolation/sets/skyward-sword-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 820,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/sunniea-416990841/exploring-the-skies-overworld?in=sunniea-416990841/sets/skyward-sword-full-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 821,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/sunniea-416990841/skyloft-piano-arrange?in=sunniea-416990841/sets/skyward-sword-full-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 822,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/sunniea-416990841/sealed-grounds?in=sunniea-416990841/sets/skyward-sword-full-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 823,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/sunniea-416990841/sealed-temple?in=sunniea-416990841/sets/skyward-sword-full-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 824,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/sunniea-416990841/lopsas-theme-theme-of-the-kikwis?in=sunniea-416990841/sets/skyward-sword-full-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 825,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/sunniea-416990841/faron-woods?in=sunniea-416990841/sets/skyward-sword-full-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 826,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/extrapolation/enemy-appears-the-legend-of-zelda-skyward-sword?in=extrapolation/sets/skyward-sword-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 827,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/sunniea-416990841/battle?in=sunniea-416990841/sets/skyward-sword-full-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 828,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/sunniea-416990841/buchas-theme-theme-of-the-kikwis?in=sunniea-416990841/sets/skyward-sword-full-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 829,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/sunniea-416990841/dungeon-introduction?in=sunniea-416990841/sets/skyward-sword-full-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 830,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/sunniea-416990841/skyview-temple?in=sunniea-416990841/sets/skyward-sword-full-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 831,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/sunniea-416990841/mini-boss-battle-1-stalfos-stalmaster?in=sunniea-416990841/sets/skyward-sword-full-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 832,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/sunniea-416990841/ghirahims-theme?in=sunniea-416990841/sets/skyward-sword-full-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 833,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/sunniea-416990841/demon-lord-ghirahim-first-battle?in=sunniea-416990841/sets/skyward-sword-full-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 834,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/sunniea-416990841/temple-spring?in=sunniea-416990841/sets/skyward-sword-full-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 835,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/sunniea-416990841/dance-of-the-goddess?in=sunniea-416990841/sets/skyward-sword-full-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 836,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/procrastinating-reality/the-lumpy-pumpkin-skyward-sword?in=extrapolation/sets/skyward-sword-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 837,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/kjelloman/bamboo-island-the-legend-of-zelda-skyward-sword?in=extrapolation/sets/skyward-sword-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 838,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/extrapolation/monster-of-skyloft-the-legend-of-zelda-skyward-sword?in=extrapolation/sets/skyward-sword-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 839,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/sunniea-416990841/eldin-volcano?in=sunniea-416990841/sets/skyward-sword-full-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 840,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/sunniea-416990841/ledd-cobals-theme-theme-of-the-mogmas?in=sunniea-416990841/sets/skyward-sword-full-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 841,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/sunniea-416990841/mogma-mines?in=sunniea-416990841/sets/skyward-sword-full-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 842,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/sunniea-416990841/tuberts-theme-theme-of-the-mogmas?in=sunniea-416990841/sets/skyward-sword-full-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 843,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/sunniea-416990841/thrill-digger?in=sunniea-416990841/sets/skyward-sword-full-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 844,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/sunniea-416990841/earth-temple?in=sunniea-416990841/sets/skyward-sword-full-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 845,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/sunniea-416990841/mini-boss-battle-2-lizalfos-magmanos-moldorm?in=sunniea-416990841/sets/skyward-sword-full-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 846,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/extrapolation/avoiding-danger-the-legend-of-zelda-skyward-sword?in=extrapolation/sets/skyward-sword-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 847,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/sunniea-416990841/pyroclastic-fiend-scaldera-abyss-leviathan-tentalus-battle?in=sunniea-416990841/sets/skyward-sword-full-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 848,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/sunniea-416990841/memories-of-zelda?in=sunniea-416990841/sets/skyward-sword-full-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 849,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/sunniea-416990841/lanayru-desert?in=sunniea-416990841/sets/skyward-sword-full-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 850,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/morgan-fleisch/lanayru-desert-past?in=extrapolation/sets/skyward-sword-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 851,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/sunniea-416990841/lanayru-mining-facility?in=sunniea-416990841/sets/skyward-sword-full-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 852,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/jorge-guerra-55/lanayru-mining-facility-past?in=extrapolation/sets/skyward-sword-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 853,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/extrapolation/disrupted-ritual-the-legend-of-zelda-skyward-sword?in=extrapolation/sets/skyward-sword-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 854,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/sunniea-416990841/a-sudden-crashlanding?in=sunniea-416990841/sets/skyward-sword-full-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 855,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/saverzavis/fire-sanctuary-the-legend-of-zelda-skyward-sword-ost",
         answer: 856,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/mecucu/harp-ballad-of-the-goddess-the-legend-of-zelda-skyward-sword?in=extrapolation/sets/skyward-sword-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 857,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/sunniea-416990841/scrappers-theme?in=sunniea-416990841/sets/skyward-sword-full-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 858,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/nypt/isle-of-songs-skyward-sword?in=extrapolation/sets/skyward-sword-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 859,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/sunniea-416990841/farores-courage?in=sunniea-416990841/sets/skyward-sword-full-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 860,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/dreadlock-cat/farores-silent-realm-skyward-sword?in=extrapolation/sets/skyward-sword-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 861,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/sunniea-416990841/inside-the-great-tree?in=sunniea-416990841/sets/skyward-sword-full-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 862,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/sunniea-416990841/lake-floria?in=sunniea-416990841/sets/skyward-sword-full-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 863,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/chloe-j-england/skyward-sword-music-guardians?in=extrapolation/sets/skyward-sword-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 864,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/nypt/the-dragons-skyward-sword?in=extrapolation/sets/skyward-sword-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 865,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/jorge-guerra-55/ancient-cistern?in=extrapolation/sets/skyward-sword-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 866,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/hhill505/zelda-skyward-sword-music-3?in=extrapolation/sets/skyward-sword-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 867,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/extrapolation/fun-fun-island-the-legend-of-zelda-skyward-sword?in=extrapolation/sets/skyward-sword-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 868,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/extrapolation/farons-shrine-the-legend-of-zelda-skyward-sword?in=extrapolation/sets/skyward-sword-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 869,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/extrapolation/sealing-spike-the-legend-of-zelda-skyward-sword?in=extrapolation/sets/skyward-sword-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 870,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/extrapolation/the-imprisoned-the-legend-of-zelda-skyward-sword?in=extrapolation/sets/skyward-sword-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 871,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/extrapolation/bug-heaven-the-legend-of-zelda-skyward-sword?in=extrapolation/sets/skyward-sword-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 872,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/chillkj/loz-skyward-sword-nayrus-wisdom?in=extrapolation/sets/skyward-sword-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 873,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/silver-wolf-21/nayrus-silent-realm-the-legend-of-zelda-skyward-sword?in=extrapolation/sets/skyward-sword-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 874,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/heytherejc/zelda-skyward-sword-music?in=extrapolation/sets/skyward-sword-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 875,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/dialgann/sailing-the-sand-sea?in=extrapolation/sets/skyward-sword-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 876,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/jorge-guerra-55/minecart-ride?in=extrapolation/sets/skyward-sword-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 877,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/nypt/pirate-stronghold-past-skyward-sword?in=extrapolation/sets/skyward-sword-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 878,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/nypt/sandship-skyward-sword?in=extrapolation/sets/skyward-sword-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 879,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/kristen-reel/the-legend-of-zelda-skyward?in=extrapolation/sets/skyward-sword-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 880,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/sapphirehrt/dins-power?in=extrapolation/sets/skyward-sword-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 881,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/chillkj/loz-skyward-sword-din?in=extrapolation/sets/skyward-sword-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 882,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/chillkj/the-legend-of-zelda-skyward-sword-volcano-summit-interior?in=extrapolation/sets/skyward-sword-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 883,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/extrapolation/gulds-theme-the-legend-of-zelda-skyward-sword?in=extrapolation/sets/skyward-sword-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 884,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/extrapolation/chase-the-mogma-brother-the-legend-of-zelda-skyward-sword?in=extrapolation/sets/skyward-sword-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 885,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/windshaman/the-legend-of-zelda-skyward-sword-ghirahim-battle-2?in=extrapolation/sets/skyward-sword-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 886,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/extrapolation/the-imprisoned-2-the-legend-of-zelda-skyward-sword?in=extrapolation/sets/skyward-sword-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 887,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/extrapolation/groosenator-the-legend-of-zelda-skyward-sword?in=extrapolation/sets/skyward-sword-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 888,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/templarofbacon/dejected-groose-the-legend-of-zelda-skyward-sword?in=extrapolation/sets/skyward-sword-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 889,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/magaiby7/zelda-skyward-sword-temple-of?in=extrapolation/sets/skyward-sword-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 890,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/vgmdoc/great-spirit-of-the-skies-levias-battle?in=extrapolation/sets/skyward-sword-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 891,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/jorge-guerra-55/bilocyte?in=extrapolation/sets/skyward-sword-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 892,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/extrapolation/imprisoned-final-the-legend-of-zelda-skyward-sword?in=extrapolation/sets/skyward-sword-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 893,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user-164166498/faron-floods-the-legend-of-zelda-skyward-sword?in=extrapolation/sets/skyward-sword-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 894,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/medical-vgm/tadtone-hunt?in=extrapolation/sets/skyward-sword-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 895,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/chillkj/loz-skyward-swordaaaa?in=extrapolation/sets/skyward-sword-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 896,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user-460195848/song-of-the-hero-the-legend-of-zelda-skyward-sword?in=extrapolation/sets/skyward-sword-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 897,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/rufhles/goddesss-silent-realm?in=extrapolation/sets/skyward-sword-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 898,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/chillkj/the-legend-of-zelda-skyward-sword-uncovering-sky-keep?in=extrapolation/sets/skyward-sword-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 899,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/nypt/present-at-peace-skyward-sword?in=extrapolation/sets/skyward-sword-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 900,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user-121188349/kumite-the-legend-of-zelda?in=extrapolation/sets/skyward-sword-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 901,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/dialgann/final-ghirahim?in=extrapolation/sets/skyward-sword-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 902,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user-567084637/battlefield-of-demise-the-legend-of-zelda-skyward-sword-1?in=extrapolation/sets/skyward-sword-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 903,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/derkmakes/the-demon-king-demise-battle-rising?in=extrapolation/sets/skyward-sword-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 904,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/jorge-guerra-55/final-demise?in=extrapolation/sets/skyward-sword-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 905,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/vgmdoc/links-return-the-legend-of-zelda-skyward-sword?in=extrapolation/sets/skyward-sword-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 906,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/leeumm/skyward-sword-fis-farewell?in=extrapolation/sets/skyward-sword-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 907,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/atalli/eternal-gratitude-fis-theme?in=extrapolation/sets/skyward-sword-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 908,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/vgmdoc/the-hero-of-time-the-legend-of-zelda-skyward-sword?in=extrapolation/sets/skyward-sword-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 909,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/craigcaleb/skyward-sword-staff-roll?in=extrapolation/sets/skyward-sword-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 910,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/doktor-vgm/batreauxs-theme-good-the-legend-of-zelda-skyward-sword",
         answer: 911,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/zolverein-adler/island-in-the-sky-the-legend",
         answer: 912,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/medical-vgm/3-35-the-pumpkin-song",
         answer: 913,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/morgan-fleisch/pumpkin-harvest",
         answer: 914,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 915,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 916,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 917,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user203073987/zeldas-lullaby-the-legend-of?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 918,
     },
+    // A Link Between Worlds
+    // https://soundcloud.com/user-411498138/sets/the-legend-of-zelda-a-link
     {
-        url: "",
+        url: "https://soundcloud.com/kletain/the-legend-of-zelda-a-link?in=user-411498138/sets/the-legend-of-zelda-a-link&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 919,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user-880692026/a-link-between-worlds?in=user-411498138/sets/the-legend-of-zelda-a-link&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 920,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/nypt/prologue-a-link-between-worlds?in=user-411498138/sets/the-legend-of-zelda-a-link&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 921,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/curevgm/nightmare-a-link-between-worlds?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 922,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/kingslizz/hyrule-at-peace-the-legend-of-zelda-a-link-between-worlds?in=user-411498138/sets/the-legend-of-zelda-a-link&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 923,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/vgm-research/hyrule-castle-at-peace-the-legend-of-zelda-a-link-between-worlds?in=user-411498138/sets/the-legend-of-zelda-a-link&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 924,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/anderouspi/zeldas-lullaby-the-legend-of?in=user-411498138/sets/the-legend-of-zelda-a-link&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 925,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/fellipe-camarossi/the-legend-of-zelda-a-link?in=user-411498138/sets/the-legend-of-zelda-a-link&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 926,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/vgm-research/an-anxious-sahasrahla?in=user-411498138/sets/the-legend-of-zelda-a-link&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 927,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/anderouspi/dank-dungeon-the-legend-of-zelda-a-link-between-worlds?in=user-411498138/sets/the-legend-of-zelda-a-link&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 928,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 929,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/curevgm/at-the-sanctuary?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 930,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/flavio514/yugas-theme?in=user-411498138/sets/the-legend-of-zelda-a-link&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 931,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/anderouspi/ravios-theme-the-legend-of?in=user-411498138/sets/the-legend-of-zelda-a-link&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 932,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 933,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/vgm-research/at-the-milk-bar-the-legend-of-zelda-a-link-between-worlds",
         answer: 934,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 935,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/nypt/mother-maiamai-a-link-between-world?in=user-411498138/sets/the-legend-of-zelda-a-link&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 936,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/nypt/eastern-temple-a-link-between-worlds?in=user-411498138/sets/the-legend-of-zelda-a-link&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 937,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/anderouspi/yuga-appears-the-legend-of?in=user-411498138/sets/the-legend-of-zelda-a-link&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 938,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/nypt/boss-battle-hyrule-a-link-between-worlds?in=user-411498138/sets/the-legend-of-zelda-a-link&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 939,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 940,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 941,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/vgm-research/irene-the-apprentice-witch-the-legend-of-zelda-a-link-between-worlds?in=user-411498138/sets/the-legend-of-zelda-a-link&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 942,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 943,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/vgm-research/zora-trouble-the-legend-of-zelda-a-link-between-worlds?in=user-411498138/sets/the-legend-of-zelda-a-link&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 944,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/vgm-research/restoring-queen-oren-the-legend-of-zelda-a-link-between-worlds",
         answer: 945,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/vgm-research/ravios-shop",
         answer: 946,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/nypt/fairy-fountain-a-link-between-worlds?in=user-411498138/sets/the-legend-of-zelda-a-link&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 947,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 948,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/flavio514/death-mountain?in=user-411498138/sets/the-legend-of-zelda-a-link&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 949,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/vgm-research/final-showdown-with-ganon?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 950,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/nypt/forest-of-mystery-a-link-between-worlds?in=user-411498138/sets/the-legend-of-zelda-a-link&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 951,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/anderouspi/lost-woods-the-legend-of?in=user-411498138/sets/the-legend-of-zelda-a-link&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 952,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/fredbsoundstracks/the-legend-of-zelda-a-link?in=user-411498138/sets/the-legend-of-zelda-a-link&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 953,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/supersmashbrosforwiiu2/yuga-battle-hyrule-castle-tloz?in=user-411498138/sets/the-legend-of-zelda-a-link&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 954,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/nypt/hildas-theme-a-link-between-world?in=user-411498138/sets/the-legend-of-zelda-a-link&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 955,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 956,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/grumproast/lorule-field-the-legend-of-zelda-a-link-between-worlds?in=user-411498138/sets/the-legend-of-zelda-a-link&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 957,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/nypt/theives-hideout?in=user-411498138/sets/the-legend-of-zelda-a-link&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 958,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/nypt/desert-palace?in=user-411498138/sets/the-legend-of-zelda-a-link&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 959,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/nypt/skull-woods-a-link-between-worlds?in=user-411498138/sets/the-legend-of-zelda-a-link&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 960,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/vgm-research/sneaking-into-the-dark-palace?in=user-411498138/sets/the-legend-of-zelda-a-link&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 961,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/joelghill/the-dark-palace?in=user-411498138/sets/the-legend-of-zelda-a-link&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 962,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/cow-ravine/link-between-worlds-ice-ruins?in=user-411498138/sets/the-legend-of-zelda-a-link&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 963,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/vgm-research/a-trip-to-turtle-rock?in=user-411498138/sets/the-legend-of-zelda-a-link&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 964,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 965,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/flavio514/lorule-castle?in=user-411498138/sets/the-legend-of-zelda-a-link&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 966,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user-121634934/yuga-ganon-battle-the-legend-of-zelda-a-link-between-worlds?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 967,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user-737947765/link-between-worlds-light-arrow-theme?in=user-411498138/sets/the-legend-of-zelda-a-link&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 968,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/vgm-research/credits-the-legend-of-zelda-a-link-between-worlds?in=user-411498138/sets/the-legend-of-zelda-a-link&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 969,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/bzervi/the-legend-of-zelda-a-link?in=user-411498138/sets/the-legend-of-zelda-a-link&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 970,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/vgm-research/treacherous-tower-the-legend-of-zelda-a-link-between-worlds?in=user-411498138/sets/the-legend-of-zelda-a-link&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 971,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 972,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 973,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 974,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 975,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 976,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 977,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 978,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 979,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 980,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 981,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/nypt/zeldas-lullaby-milk-bar-a-link-between-worlds?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 982,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/nypt/death-mountain-milk-bar-a-link-between-worlds?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 983,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/unofficialkernal/ballad-of-the-goddess-milk-bar-the-legend-of-zelda-a-link-between-worlds?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 984,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/unofficialkernal/hildas-theme-milk-bar-the-legend-of-zelda-a-link-between-worlds?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 985,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/vgmdoc/kakariko-village-milk-bar-musicians?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 986,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/unofficialkernal/lorule-main-theme-milk-bar-the-legend-of-zelda-a-link-between-worlds?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 987,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/curevgm/hyrule-castle-milk-bar-musicians-the-legend-of-zelda-a-link-between-worlds?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 988,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/vgm-research/lorule-dungeon-theme-milk-bar-musicians-the-legend-of-zelda-a-link-between-worlds?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 989,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/curevgm/lorule-castle-milk-bar-musicians-the-legend-of-zelda-a-link-between-worlds?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 990,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/vgmdoc/hyrule-theme-milk-bar-musicians-the-legend-of-zelda-a-link-between-worlds?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 991,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/vgmdr/ganons-theme-milk-bar-musicians?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 992,
-    },
-    {
-        url: "",
-        answer: 993,
-    },
-    {
-        url: "",
-        answer: 994,
-    },
-    {
-        url: "",
-        answer: 995,
-    },
-    {
-        url: "",
-        answer: 996,
-    },
-    {
-        url: "",
-        answer: 997,
-    },
-    {
-        url: "",
-        answer: 998,
-    },
-    {
-        url: "",
-        answer: 999,
-    },
-    {
-        url: "",
-        answer: 1000,
-    },
-    {
-        url: "",
-        answer: 1001,
     },
 ];
