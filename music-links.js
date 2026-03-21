@@ -4255,715 +4255,559 @@ var musicListWithLinks = [
         answer: 1053,
     },
     {
-        url: "https://soundcloud.com/infiniteshadow-nintendo/opening",
+        url: "https://soundcloud.com/infiniteshadow-nintendo/the-towers-rise",
         answer: 1054,
     },
     {
-        url: "https://soundcloud.com/infiniteshadow-nintendo/the-towers-rise",
+        url: "https://soundcloud.com/infiniteshadow-nintendo/shrine",
         answer: 1055,
     },
     {
-        url: "https://soundcloud.com/infiniteshadow-nintendo/the-beast",
+        url: "https://soundcloud.com/infiniteshadow-nintendo/battle-shrine-original",
         answer: 1056,
     },
     {
-        url: "https://soundcloud.com/infiniteshadow-nintendo/shrine",
+        url: "https://soundcloud.com/infiniteshadow-nintendo/highlands",
         answer: 1057,
     },
     {
-        url: "https://soundcloud.com/infiniteshadow-nintendo/battle-shrine-original",
+        url: "https://soundcloud.com/infiniteshadow-nintendo/stationary-guardian-battle",
         answer: 1058,
     },
     {
-        url: "https://soundcloud.com/infiniteshadow-nintendo/highlands",
+        url: "https://soundcloud.com/infiniteshadow-nintendo/the-temple-of-time",
         answer: 1059,
     },
     {
-        url: "https://soundcloud.com/infiniteshadow-nintendo/stationary-guardian-battle",
+        url: "https://soundcloud.com/infiniteshadow-nintendo/the-last-king-of-hyrule",
         answer: 1060,
     },
     {
-        url: "https://soundcloud.com/infiniteshadow-nintendo/the-temple-of-time",
+        url: "https://soundcloud.com/infiniteshadow-nintendo/a-kings-request",
         answer: 1061,
     },
     {
-        url: "https://soundcloud.com/infiniteshadow-nintendo/the-last-king-of-hyrule",
+        url: "https://soundcloud.com/infiniteshadow-nintendo/battle-field-original",
         answer: 1062,
     },
     {
-        url: "https://soundcloud.com/infiniteshadow-nintendo/a-kings-request",
+        url: "https://soundcloud.com/infiniteshadow-nintendo/shiekah-tower-activated",
         answer: 1063,
     },
     {
-        url: "https://soundcloud.com/infiniteshadow-nintendo/battle-field-original",
+        url: "https://soundcloud.com/infiniteshadow-nintendo/talus-battle",
         answer: 1064,
     },
     {
-        url: "https://soundcloud.com/infiniteshadow-nintendo/shiekah-tower-activated",
+        url: "https://soundcloud.com/infiniteshadow-nintendo/kakariko-village",
         answer: 1065,
     },
     {
-        url: "https://soundcloud.com/infiniteshadow-nintendo/talus-battle",
+        url: "https://soundcloud.com/infiniteshadow-nintendo/impas-theme",
         answer: 1066,
     },
     {
-        url: "https://soundcloud.com/infiniteshadow-nintendo/kakariko-village",
+        url: "https://soundcloud.com/infiniteshadow-nintendo/the-10-000-year-old-legend",
         answer: 1067,
     },
     {
-        url: "https://soundcloud.com/infiniteshadow-nintendo/impas-theme",
+        url: "https://soundcloud.com/infiniteshadow-nintendo/hateno-ancient-tech-lab",
         answer: 1068,
     },
     {
-        url: "https://soundcloud.com/infiniteshadow-nintendo/the-10-000-year-old-legend",
+        url: "https://soundcloud.com/infiniteshadow-nintendo/great-fairys-fountain",
         answer: 1069,
     },
     {
-        url: "https://soundcloud.com/infiniteshadow-nintendo/hateno-ancient-tech-lab",
+        url: "https://soundcloud.com/infiniteshadow-nintendo/field-night",
         answer: 1070,
     },
     {
-        url: "https://soundcloud.com/infiniteshadow-nintendo/reviving-the-great-fairy",
+        url: "https://soundcloud.com/infiniteshadow-nintendo/kasss-theme",
         answer: 1071,
     },
     {
-        url: "https://soundcloud.com/infiniteshadow-nintendo/great-fairys-fountain",
+        url: "https://soundcloud.com/infiniteshadow-nintendo/kass-main-theme",
         answer: 1072,
     },
     {
-        url: "https://soundcloud.com/infiniteshadow-nintendo/field-night",
+        url: "https://soundcloud.com/infiniteshadow-nintendo/stables",
         answer: 1073,
     },
     {
-        url: "https://soundcloud.com/infiniteshadow-nintendo/kasss-theme",
+        url: "https://soundcloud.com/infiniteshadow-nintendo/riding-night",
         answer: 1074,
     },
     {
-        url: "https://soundcloud.com/infiniteshadow-nintendo/kass-main-theme",
+        url: "https://soundcloud.com/infiniteshadow-nintendo/blessing-shrine",
         answer: 1075,
     },
     {
-        url: "https://soundcloud.com/infiniteshadow-nintendo/stables",
+        url: "https://soundcloud.com/infiniteshadow-nintendo/hinox-battle",
         answer: 1076,
     },
     {
-        url: "https://soundcloud.com/infiniteshadow-nintendo/kass-10-000-year-old-legend",
+        url: "https://soundcloud.com/infiniteshadow-nintendo/wetlands",
         answer: 1077,
     },
     {
-        url: "https://soundcloud.com/infiniteshadow-nintendo/riding-night",
+        url: "https://soundcloud.com/infiniteshadow-nintendo/the-crazy-flower-lady",
         answer: 1078,
     },
     {
-        url: "https://soundcloud.com/infiniteshadow-nintendo/blessing-shrine",
+        url: "https://soundcloud.com/infiniteshadow-nintendo/sidons-theme",
         answer: 1079,
     },
     {
-        url: "https://soundcloud.com/infiniteshadow-nintendo/hinox-battle",
+        url: "https://soundcloud.com/infiniteshadow-nintendo/zoras-domain",
         answer: 1080,
     },
     {
-        url: "https://soundcloud.com/infiniteshadow-nintendo/wetlands",
+        url: "https://soundcloud.com/infiniteshadow-nintendo/the-divine-beast-of-the-lake",
         answer: 1081,
     },
     {
-        url: "https://soundcloud.com/infiniteshadow-nintendo/the-crazy-flower-lady",
+        url: "https://soundcloud.com/infiniteshadow-nintendo/vah-ruta-battle",
         answer: 1082,
     },
     {
-        url: "https://soundcloud.com/infiniteshadow-nintendo/meeting-sidon",
+        url: "https://soundcloud.com/infiniteshadow-nintendo/sidons-promise",
         answer: 1083,
     },
     {
-        url: "https://soundcloud.com/infiniteshadow-nintendo/sidons-theme",
+        url: "https://soundcloud.com/infiniteshadow-nintendo/divine-beast-vah-ruta",
         answer: 1084,
     },
     {
-        url: "https://soundcloud.com/infiniteshadow-nintendo/zoras-domain",
+        url: "https://soundcloud.com/infiniteshadow-nintendo/battle-divine-beast",
         answer: 1085,
     },
     {
-        url: "https://soundcloud.com/infiniteshadow-nintendo/the-divine-beast-of-the-lake",
+        url: "https://soundcloud.com/infiniteshadow-nintendo/blight-ganon-appearance",
         answer: 1086,
     },
     {
-        url: "https://soundcloud.com/infiniteshadow-nintendo/links-memories-miphas-touch",
+        url: "https://soundcloud.com/infiniteshadow-nintendo/waterblight-ganon-battle",
         answer: 1087,
     },
     {
-        url: "https://soundcloud.com/infiniteshadow-nintendo/vah-ruta-battle",
+        url: "https://soundcloud.com/infiniteshadow-nintendo/heart-container-appearance",
         answer: 1088,
     },
     {
-        url: "https://soundcloud.com/infiniteshadow-nintendo/sidons-promise",
+        url: "https://soundcloud.com/infiniteshadow-nintendo/reunion-with-mipha",
         answer: 1089,
     },
     {
-        url: "https://soundcloud.com/infiniteshadow-nintendo/divine-beast-vah-ruta",
+        url: "https://soundcloud.com/infiniteshadow-nintendo/the-champions-power",
         answer: 1090,
     },
     {
-        url: "https://soundcloud.com/infiniteshadow-nintendo/battle-divine-beast",
+        url: "https://soundcloud.com/infiniteshadow-nintendo/the-divine-beast-aims",
         answer: 1091,
     },
     {
-        url: "https://soundcloud.com/infiniteshadow-nintendo/blight-ganon-appearance",
+        url: "https://soundcloud.com/infiniteshadow-nintendo/field-snow",
         answer: 1092,
     },
     {
-        url: "https://soundcloud.com/infiniteshadow-nintendo/waterblight-ganon-battle",
+        url: "https://soundcloud.com/infiniteshadow-nintendo/cave",
         answer: 1093,
     },
     {
-        url: "https://soundcloud.com/infiniteshadow-nintendo/heart-container-appearance",
+        url: "https://soundcloud.com/infiniteshadow-nintendo/the-divine-beast-of-the-sky",
         answer: 1094,
     },
     {
-        url: "https://soundcloud.com/infiniteshadow-nintendo/reunion-with-mipha",
+        url: "https://soundcloud.com/infiniteshadow-nintendo/rito-village",
         answer: 1095,
     },
     {
-        url: "https://soundcloud.com/infiniteshadow-nintendo/the-champions-power",
+        url: "https://soundcloud.com/infiniteshadow-nintendo/meeting-teba",
         answer: 1096,
     },
     {
-        url: "https://soundcloud.com/infiniteshadow-nintendo/the-divine-beast-aims",
+        url: "https://soundcloud.com/infiniteshadow-nintendo/rito-flight-range",
         answer: 1097,
     },
     {
-        url: "https://soundcloud.com/infiniteshadow-nintendo/mipha-and-vah-ruta",
+        url: "https://soundcloud.com/infiniteshadow-nintendo/flight-training",
         answer: 1098,
     },
     {
-        url: "https://soundcloud.com/infiniteshadow-nintendo/field-snow",
+        url: "https://soundcloud.com/infiniteshadow-nintendo/vah-medoh-battle",
         answer: 1099,
     },
     {
-        url: "https://soundcloud.com/infiniteshadow-nintendo/cave",
+        url: "https://soundcloud.com/infiniteshadow-nintendo/tebas-encouragement",
         answer: 1100,
     },
     {
-        url: "https://soundcloud.com/infiniteshadow-nintendo/the-divine-beast-of-the-sky",
+        url: "https://soundcloud.com/infiniteshadow-nintendo/divine-beast-vah-medoh",
         answer: 1101,
     },
     {
-        url: "https://soundcloud.com/infiniteshadow-nintendo/rito-village",
+        url: "https://soundcloud.com/infiniteshadow-nintendo/windblight-ganon-battle",
         answer: 1102,
     },
     {
-        url: "https://soundcloud.com/infiniteshadow-nintendo/links-memories-revalis-flap",
+        url: "https://soundcloud.com/infiniteshadow-nintendo/reunion-with-revali",
         answer: 1103,
     },
     {
-        url: "https://soundcloud.com/infiniteshadow-nintendo/meeting-teba",
+        url: "https://soundcloud.com/infiniteshadow-nintendo/house",
         answer: 1104,
     },
     {
-        url: "https://soundcloud.com/infiniteshadow-nintendo/rito-flight-range",
+        url: "https://soundcloud.com/infiniteshadow-nintendo/snowball-minigame",
         answer: 1105,
     },
     {
-        url: "https://soundcloud.com/infiniteshadow-nintendo/flight-training",
+        url: "https://soundcloud.com/infiniteshadow-nintendo/rito-sisters",
         answer: 1106,
     },
     {
-        url: "https://soundcloud.com/infiniteshadow-nintendo/vah-medoh-battle",
+        url: "https://soundcloud.com/nintendomusic-infinite/field-volcano",
         answer: 1107,
     },
     {
-        url: "https://soundcloud.com/infiniteshadow-nintendo/tebas-encouragement",
+        url: "https://soundcloud.com/nintendomusic-infinite/death-mountain",
         answer: 1108,
     },
     {
-        url: "https://soundcloud.com/infiniteshadow-nintendo/divine-beast-vah-medoh",
+        url: "https://soundcloud.com/nintendomusic-infinite/goron-humming",
         answer: 1109,
     },
     {
-        url: "https://soundcloud.com/infiniteshadow-nintendo/windblight-ganon-battle",
+        url: "https://soundcloud.com/nintendomusic-infinite/the-divine-beast-of-the",
         answer: 1110,
     },
     {
-        url: "https://soundcloud.com/infiniteshadow-nintendo/reunion-with-revali",
+        url: "https://soundcloud.com/nintendomusic-infinite/goron-city",
         answer: 1111,
     },
     {
-        url: "https://soundcloud.com/infiniteshadow-nintendo/revali-and-vah-medoh",
+        url: "https://soundcloud.com/nintendomusic-infinite/abandoned-north-mine",
         answer: 1112,
     },
     {
-        url: "https://soundcloud.com/infiniteshadow-nintendo/house",
+        url: "https://soundcloud.com/nintendomusic-infinite/meeting-yunobo",
         answer: 1113,
     },
     {
-        url: "https://soundcloud.com/infiniteshadow-nintendo/snowball-minigame",
+        url: "https://soundcloud.com/nintendomusic-infinite/vah-rudania-battle",
         answer: 1114,
     },
     {
-        url: "https://soundcloud.com/infiniteshadow-nintendo/rito-sisters",
+        url: "https://soundcloud.com/nintendomusic-infinite/yunobos-opportunity",
         answer: 1115,
     },
     {
-        url: "https://soundcloud.com/infiniteshadow-nintendo/kasss-theme-the-heros-theme",
+        url: "https://soundcloud.com/nintendomusic-infinite/divine-beast-vah-rudania",
         answer: 1116,
     },
     {
-        url: "https://soundcloud.com/infiniteshadow-nintendo/rito-village-kass-and-five",
+        url: "https://soundcloud.com/nintendomusic-infinite/fireblight-ganon-battle",
         answer: 1117,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/field-volcano",
+        url: "https://soundcloud.com/nintendomusic-infinite/reunion-with-daruk",
         answer: 1118,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/death-mountain",
+        url: "https://soundcloud.com/nintendomusic-infinite/field-desert",
         answer: 1119,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/goron-humming",
+        url: "https://soundcloud.com/nintendomusic-infinite/the-divine-beast-of-the-desert",
         answer: 1120,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/the-divine-beast-of-the",
+        url: "https://soundcloud.com/nintendomusic-infinite/kara-kara-bazaar",
         answer: 1121,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/goron-city",
+        url: "https://soundcloud.com/nintendomusic-infinite/gerudo-town",
         answer: 1122,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/abandoned-north-mine",
+        url: "https://soundcloud.com/nintendomusic-infinite/meeting-riju",
         answer: 1123,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/meeting-yunobo",
+        url: "https://soundcloud.com/nintendomusic-infinite/yiga-hideout",
         answer: 1124,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/links-memories-daruks-mettle",
+        url: "https://soundcloud.com/nintendomusic-infinite/kohgas-theme",
         answer: 1125,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/vah-rudania-battle",
+        url: "https://soundcloud.com/nintendomusic-infinite/master-kohga-battle",
         answer: 1126,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/yunobos-opportunity",
+        url: "https://soundcloud.com/nintendomusic-infinite/observation-post",
         answer: 1127,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/divine-beast-vah-rudania",
+        url: "https://soundcloud.com/nintendomusic-infinite/vah-naboris-battle",
         answer: 1128,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/fireblight-ganon-battle",
+        url: "https://soundcloud.com/nintendomusic-infinite/rijus-trust",
         answer: 1129,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/reunion-with-daruk",
+        url: "https://soundcloud.com/nintendomusic-infinite/divine-beast-vah-naboris",
         answer: 1130,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/daruk-and-vah-rudania",
+        url: "https://soundcloud.com/nintendomusic-infinite/thunderblight-ganon-battle",
         answer: 1131,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/field-desert",
+        url: "https://soundcloud.com/nintendomusic-infinite/reunion-with-urbosa",
         answer: 1132,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/the-divine-beast-of-the-desert",
+        url: "https://soundcloud.com/nintendomusic-infinite/race-minigame",
         answer: 1133,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/kara-kara-bazaar",
+        url: "https://soundcloud.com/nintendomusic-infinite/gerudo-race-award-ceremony",
         answer: 1134,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/gerudo-town",
+        url: "https://soundcloud.com/nintendomusic-infinite/goron-challenge-minigame",
         answer: 1135,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/meeting-riju",
+        url: "https://soundcloud.com/nintendomusic-infinite/molduga-battle",
         answer: 1136,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/yiga-hideout",
+        url: "https://soundcloud.com/nintendomusic-infinite/ruins",
         answer: 1137,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/kohgas-theme",
+        url: "https://soundcloud.com/nintendomusic-infinite/lost-woods",
         answer: 1138,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/master-kohga-battle",
+        url: "https://soundcloud.com/nintendomusic-infinite/korok-forest",
         answer: 1139,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/links-memories-urbosas-hand",
+        url: "https://soundcloud.com/nintendomusic-infinite/encounter-with-the-deku-tree",
         answer: 1140,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/observation-post",
+        url: "https://soundcloud.com/nintendomusic-infinite/master-sword",
         answer: 1141,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/vah-naboris-battle",
+        url: "https://soundcloud.com/nintendomusic-infinite/akkala-ancient-tech-lab",
         answer: 1142,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/rijus-trust",
+        url: "https://soundcloud.com/nintendomusic-infinite/naydra-possessed",
         answer: 1143,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/divine-beast-vah-naboris",
+        url: "https://soundcloud.com/nintendomusic-infinite/the-dragons-of-hyrule",
         answer: 1144,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/thunderblight-ganon-battle",
+        url: "https://soundcloud.com/nintendomusic-infinite/omen-of-the-blood-moon",
         answer: 1145,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/reunion-with-urbosa",
+        url: "https://soundcloud.com/nintendomusic-infinite/resurrecting-memory",
         answer: 1146,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/urbosa-and-vah-naboris",
+        url: "https://soundcloud.com/nintendomusic-infinite/links-memories-silent-princess",
         answer: 1147,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/race-start",
+        url: "https://soundcloud.com/nintendomusic-infinite/links-memories-father-and",
         answer: 1148,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/race-minigame",
+        url: "https://soundcloud.com/nintendomusic-infinite/links-memories-despair",
         answer: 1149,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/gerudo-race-award-ceremony",
+        url: "https://soundcloud.com/nintendomusic-infinite/links-memories-zeldas",
         answer: 1150,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/goron-challenge-minigame",
+        url: "https://soundcloud.com/nintendomusic-infinite/zeldas-wish",
         answer: 1151,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/molduga-battle",
+        url: "https://soundcloud.com/nintendomusic-infinite/hyrule-castle-town-ruins",
         answer: 1152,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/ruins",
+        url: "https://soundcloud.com/nintendomusic-infinite/guardian-battle",
         answer: 1153,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/lost-woods",
+        url: "https://soundcloud.com/nintendomusic-infinite/ganons-roar",
         answer: 1154,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/korok-forest",
+        url: "https://soundcloud.com/nintendomusic-infinite/hyrule-castle",
         answer: 1155,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/encounter-with-the-deku-tree",
+        url: "https://soundcloud.com/nintendomusic-infinite/calamity-ganon-appears",
         answer: 1156,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/master-sword",
+        url: "https://soundcloud.com/nintendomusic-infinite/the-divine-beasts-strike",
         answer: 1157,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/memories-the-master-sword",
+        url: "https://soundcloud.com/nintendomusic-infinite/calamity-ganon-battle-phase-1",
         answer: 1158,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/master-sword-encounter-with",
+        url: "https://soundcloud.com/nintendomusic-infinite/calamity-ganon-battle-phase-2",
         answer: 1159,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/akkala-ancient-tech-lab",
+        url: "https://soundcloud.com/nintendomusic-infinite/dark-beast-ganon-appears",
         answer: 1160,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/naydra-possessed",
+        url: "https://soundcloud.com/nintendomusic-infinite/dark-beast-ganon-battle",
         answer: 1161,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/the-dragons-of-hyrule",
+        url: "https://soundcloud.com/nintendomusic-infinite/do-you-remember",
         answer: 1162,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/omen-of-the-blood-moon",
+        url: "https://soundcloud.com/nintendomusic-infinite/staff-roll",
         answer: 1163,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/resurrecting-memory",
+        url: "https://soundcloud.com/nintendomusic-infinite/epilogue",
         answer: 1164,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/links-memories-subdued",
+        url: "https://soundcloud.com/nintendo-infinite3/lurelin-village",
         answer: 1165,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/links-memories-resolve-and",
+        url: "https://soundcloud.com/nintendo-infinite3/kilton",
         answer: 1166,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/links-memories-blades-of-the",
+        url: "https://soundcloud.com/nintendo-infinite3/wedding-at-tarrey-town",
         answer: 1167,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/links-memories-a-premonition",
+        url: "https://soundcloud.com/nintendo-infinite3/tarrey-town",
         answer: 1168,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/links-memories-silent-princess",
+        url: "https://soundcloud.com/nintendo-infinite3/wasteland",
         answer: 1169,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/links-memories-father-and",
+        url: "https://soundcloud.com/nintendo-infinite3/horse-riding-minigame",
         answer: 1170,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/links-memories-slumbering",
+        url: "https://soundcloud.com/nintendo-infinite3/malanyas-fountain",
         answer: 1171,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/links-memories-to-mount",
+        url: "https://soundcloud.com/nintendo-infinite3/lord-of-satori-mountain",
         answer: 1172,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/links-memories-return-of",
+        url: "https://soundcloud.com/nintendo-infinite3/parasail-minigame",
         answer: 1173,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/links-memories-despair",
+        url: "https://soundcloud.com/nintendo-infinite3/trial-of-the-sword-completed",
         answer: 1174,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/links-memories-zeldas",
+        url: "https://soundcloud.com/nintendo-infinite3/the-monuments-arise",
         answer: 1175,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/zeldas-wish",
+        url: "https://soundcloud.com/nintendo-infinite3/monument",
         answer: 1176,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/hyrule-castle-town-ruins",
+        url: "https://soundcloud.com/nintendo-infinite3/champion-miphas-song",
         answer: 1177,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/guardian-battle",
+        url: "https://soundcloud.com/nintendo-infinite3/champion-revalis-song",
         answer: 1178,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/ganons-roar",
+        url: "https://soundcloud.com/nintendo-infinite3/champion-daruks-song",
         answer: 1179,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/hyrule-castle",
+        url: "https://soundcloud.com/nintendo-infinite3/champion-urbosas-song",
         answer: 1180,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/calamity-ganon-appears",
+        url: "https://soundcloud.com/nintendo-infinite3/final-trial",
         answer: 1181,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/the-divine-beasts-strike",
+        url: "https://soundcloud.com/nintendo-infinite3/monk-maz-koshia-battle",
         answer: 1182,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/calamity-ganon-battle-phase-1",
+        url: "https://soundcloud.com/nintendo-infinite3/princess-zelda-and-the",
         answer: 1183,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/calamity-ganon-battle-phase-2",
+        url: "https://soundcloud.com/nintendo-infinite3/framed-picture",
         answer: 1184,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/dark-beast-ganon-appears",
+        url: "https://soundcloud.com/nintendo-infinite3/the-champions-ballad",
         answer: 1185,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/dark-beast-ganon-battle",
+        url: "https://soundcloud.com/nintendo-infinite3/nintendo-switch-presentation",
         answer: 1186,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/do-you-remember",
+        url: "https://soundcloud.com/user-909983984/hyrule-field-day-tloz-breath-of-the-wild-ost?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 1187,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/staff-roll",
+        url: "https://soundcloud.com/alvaro-iradi-de-andres/riding-night-zelda-breath-of-the-wild?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 1188,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/epilogue",
+        url: "https://soundcloud.com/silver565/the-legend-of-zelda-breath-of-the-wild-zoras-domain-night?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 1189,
     },
     {
-        url: "https://soundcloud.com/nintendo-infinite3/lurelin-village",
+        url: "https://soundcloud.com/marcus-anderson-86/zelda-breath-of-the-wild-ost-gerudo-town-night?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 1190,
     },
     {
-        url: "https://soundcloud.com/nintendo-infinite3/kilton",
+        url: "https://soundcloud.com/mega-diglett/rito-village-night-the-legend?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 1191,
     },
     {
-        url: "https://soundcloud.com/nintendo-infinite3/wedding-at-tarrey-town",
-        answer: 1192,
-    },
-    {
-        url: "https://soundcloud.com/nintendo-infinite3/tarrey-town",
-        answer: 1193,
-    },
-    {
-        url: "https://soundcloud.com/nintendo-infinite3/wasteland",
-        answer: 1194,
-    },
-    {
-        url: "https://soundcloud.com/nintendo-infinite3/horse-riding-minigame",
-        answer: 1195,
-    },
-    {
-        url: "https://soundcloud.com/nintendo-infinite3/reviving-malanya",
-        answer: 1196,
-    },
-    {
-        url: "https://soundcloud.com/nintendo-infinite3/malanyas-fountain",
-        answer: 1197,
-    },
-    {
-        url: "https://soundcloud.com/nintendo-infinite3/lord-of-satori-mountain",
-        answer: 1198,
-    },
-    {
-        url: "https://soundcloud.com/nintendo-infinite3/parasail-minigame",
-        answer: 1199,
-    },
-    {
-        url: "https://soundcloud.com/nintendo-infinite3/trial-of-the-sword-completed",
-        answer: 1200,
-    },
-    {
-        url: "https://soundcloud.com/nintendo-infinite3/master-sword-praise-of-the",
-        answer: 1201,
-    },
-    {
-        url: "https://soundcloud.com/nintendo-infinite3/kass-links-ballad",
-        answer: 1202,
-    },
-    {
-        url: "https://soundcloud.com/nintendo-infinite3/the-monuments-arise",
-        answer: 1203,
-    },
-    {
-        url: "https://soundcloud.com/nintendo-infinite3/kass-the-champions-ballad-1st",
-        answer: 1204,
-    },
-    {
-        url: "https://soundcloud.com/nintendo-infinite3/monument",
-        answer: 1205,
-    },
-    {
-        url: "https://soundcloud.com/nintendo-infinite3/champion-miphas-song",
-        answer: 1206,
-    },
-    {
-        url: "https://soundcloud.com/nintendo-infinite3/kass-miphas-ballad",
-        answer: 1207,
-    },
-    {
-        url: "https://soundcloud.com/nintendo-infinite3/kass-the-champions-ballad-2nd",
-        answer: 1208,
-    },
-    {
-        url: "https://soundcloud.com/nintendo-infinite3/champion-revalis-song",
-        answer: 1209,
-    },
-    {
-        url: "https://soundcloud.com/nintendo-infinite3/kass-revalis-ballad",
-        answer: 1210,
-    },
-    {
-        url: "https://soundcloud.com/nintendo-infinite3/kass-the-champions-ballad-3rd",
-        answer: 1211,
-    },
-    {
-        url: "https://soundcloud.com/nintendo-infinite3/champion-daruks-song",
-        answer: 1212,
-    },
-    {
-        url: "https://soundcloud.com/nintendo-infinite3/kass-daruks-ballad",
-        answer: 1213,
-    },
-    {
-        url: "https://soundcloud.com/nintendo-infinite3/kass-the-champions-ballad-4th",
-        answer: 1214,
-    },
-    {
-        url: "https://soundcloud.com/nintendo-infinite3/champion-urbosas-song",
-        answer: 1215,
-    },
-    {
-        url: "https://soundcloud.com/nintendo-infinite3/kass-urbosas-ballad",
-        answer: 1216,
-    },
-    {
-        url: "https://soundcloud.com/nintendo-infinite3/final-trial",
-        answer: 1217,
-    },
-    {
-        url: "https://soundcloud.com/nintendo-infinite3/monk-maz-koshia-battle",
-        answer: 1218,
-    },
-    {
-        url: "https://soundcloud.com/nintendo-infinite3/the-forgotten-memory-the",
-        answer: 1219,
-    },
-    {
-        url: "https://soundcloud.com/nintendo-infinite3/princess-zelda-and-the",
-        answer: 1220,
-    },
-    {
-        url: "https://soundcloud.com/nintendo-infinite3/ending-of-the-champions-ballad",
-        answer: 1221,
-    },
-    {
-        url: "https://soundcloud.com/nintendo-infinite3/framed-picture",
-        answer: 1222,
-    },
-    {
-        url: "https://soundcloud.com/nintendo-infinite3/the-champions-ballad",
-        answer: 1223,
-    },
-    {
-        url: "https://soundcloud.com/nintendo-infinite3/2014-e3-trailer-bgm-bonus",
-        answer: 1224,
-    },
-    {
-        url: "https://soundcloud.com/nintendo-infinite3/nintendo-switch-presentation",
-        answer: 1225,
-    },
-    {
-        url: "https://soundcloud.com/user-909983984/hyrule-field-day-tloz-breath-of-the-wild-ost?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-        answer: 1226,
-    },
-    {
-        url: "https://soundcloud.com/alvaro-iradi-de-andres/riding-night-zelda-breath-of-the-wild?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-        answer: 1227,
-    },
-    {
-        url: "https://soundcloud.com/silver565/the-legend-of-zelda-breath-of-the-wild-zoras-domain-night?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-        answer: 1228,
-    },
-    {
-        url: "https://soundcloud.com/marcus-anderson-86/zelda-breath-of-the-wild-ost-gerudo-town-night?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-        answer: 1229,
-    },
-    {
-        url: "https://soundcloud.com/mega-diglett/rito-village-night-the-legend?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-        answer: 1230,
-    },
-    {
         url: "https://soundcloud.com/marcus-anderson-86/hateno-village-night-zelda-breath-of-the-wild-soundtrack?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-        answer: 1231,
+        answer: 1192,
     },
 ];
